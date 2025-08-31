@@ -17,7 +17,7 @@ I will be solving problems daily in **Java** and documenting my journey here.
 | Day  | Topic/Problem | Link to Code | Notes |
 |------|---------------|--------------|-------|
 | Day 001 |Second Largest|https://github.com/DivyaJadhav05/GFG-160-DAYS-CODE/blob/main/Day001/Problem1.java|Learned basics of arrays|
-| Day 002 |  | [Day002/Problem2.java](Day002/Problem2.java) |  |
+| Day 002 |Move All Zeroes to End|https://github.com/DivyaJadhav05/GFG-160-DAYS-CODE/blob/main/Day002/Problem2.java|Array traversal & in-place modification.
 | Day 003 |  | [Day003/Problem3.java](Day003/Problem3.java) |  |
 | Day 004 |  | [Day004/Problem4.java](Day004/Problem4.java) |  |
 | Day 005 |  | [Day005/Problem5.java](Day005/Problem5.java) |  |
