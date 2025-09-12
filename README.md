@@ -18,9 +18,9 @@ I will be solving problems daily in **Java** and documenting my journey here.
 |------|---------------|--------------|-------|
 | Day 001 |Second Largest|https://github.com/DivyaJadhav05/GFG-160-DAYS-CODE/blob/main/Day001/Problem1.java|Learned basics of arrays|
 | Day 002 |Move All Zeroes to End|https://github.com/DivyaJadhav05/GFG-160-DAYS-CODE/blob/main/Day002/Problem2.java|Array traversal & in-place modification.|
-| Day 003 |Reverse an Array| [Day003/Problem3.java](Day003/Problem3.java) |learned how to reverse an array in place using two pointers|
-| Day 004 |Rotate Array| [Day004/Problem4.java](Day004/Problem4.java) |learned how to rotate an array to the left (counter-clockwise) by d positions using the three-step reversal method|
-| Day 005 |Next Permutation| [Day005/Problem5.java](Day005/Problem5.java) |learned how to generate the next lexicographical permutation of an array using pivot finding, swapping, and reversing.|
+| Day 003 |Reverse an Array|[ [Day003/Problem3.java](Day003/Problem3.java) ](https://github.com/DivyaJadhav05/GFG-160-DAYS-CODE/blob/main/Day003/Problem3.java)|learned how to reverse an array in place using two pointers|
+| Day 004 |Rotate Array|Day004/ReverseArray.java|learned how to rotate an array to the left (counter-clockwise) by d positions using the three-step reversal method|
+| Day 005 |Next Permutation|Day005/RotateArray.java |learned how to generate the next lexicographical permutation of an array using pivot finding, swapping, and reversing.|
 | Day 006 |  | [Day006/Problem6.java](Day006/Problem6.java) |  |
 | Day 007 |  | [Day007/Problem7.java](Day007/Problem7.java) |  |
 | Day 008 |  | [Day008/Problem8.java](Day008/Problem8.java) |  |
